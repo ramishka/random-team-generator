@@ -3,6 +3,7 @@ A simple project which generates two randomly picked teams based on a list of pl
 Uses the Durstenfeld shuffle algorithm to mix up the names.
 
 # Setup
+This is a NodeJS project which uses Typescript. NodeJS/TS bootstrap code is based on my https://github.com/ramishka/node-typescript-starter project.
 NodeJS is required for this project to run.
 
 # Usage: 
